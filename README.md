@@ -1,4 +1,4 @@
-# Hi, I'm Paavani! 👋
+# Hi, I'm Pavani! 👋
 
 I am a passionate Master's CS student at University of Illinois at Springfield, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
